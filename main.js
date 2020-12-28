@@ -1,6 +1,4 @@
-game_status = "";
-
-function preload() {
+ function preload() {
   ball_touch_paddel = loadSound("ball_touch_paddel.wav");
   missed = loadSound("missed.wav");
 }
